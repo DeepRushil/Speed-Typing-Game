@@ -5,3 +5,5 @@ Player starts typing the words quoted on the screen.
 Player's typing efficiency is judged and calculated as per the performance.
 There is a timer, mistake calculator,and a WPM(words per minute) calculator.
 There is a retry (Try again) button also which is there in case, the players fails to finish the paragraph in the given time.
+
+We have used HTML,CSS and JS to create this game.
